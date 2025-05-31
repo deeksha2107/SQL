@@ -2,3 +2,6 @@
 
 SELECT  COUNT(*)
 FROM admissions
+--or
+SELECT COUNT(*) AS total_admissions
+FROM admissions;
